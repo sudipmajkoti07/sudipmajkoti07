@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sudip Majkoti.<br>Aspiring Machine Learning Engineer.<br>Learning AI through hands-on projects.<br>Passionate about solving real-world problems.<br>Excited to share my journey!
+👋 Hi, I’m Sudip Majkoti.<br>AI Engineer with experience in building AI agent systems.<br>Skilled in RAG-based chatbots and MLOps.<br>Passionate about solving real-world problems with AI.<br>Excited to share my journey!
 
 
 ## 🌐 Socials:
